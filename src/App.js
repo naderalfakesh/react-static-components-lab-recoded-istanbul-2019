@@ -10,7 +10,6 @@ class App extends Component {
 				<CatComponent />
 				<EinsteinQuoteComponent />
 				<MouseComponent />
-				{/* one more component missing */}
 			</div>
 		);
 	}
